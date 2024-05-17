@@ -1,0 +1,3 @@
+addi $s1,$zero,0xc
+andi $s2,$s1,0xf
+andi $s3,$s1,0x4
